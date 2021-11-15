@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_background.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_baseline_view_list_24.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_baseline_view_module_24.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/menu/layout_menu.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
