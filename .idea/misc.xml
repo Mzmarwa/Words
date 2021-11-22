@@ -10,6 +10,12 @@
         <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable-anydpi-v26/ic_launcher_foreground.xml" value="0.16574074074074074" />
         <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_baseline_view_list_24.xml" value="0.16574074074074074" />
         <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_baseline_view_module_24.xml" value="0.16574074074074074" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_grid_layout.xml" value="0.16296296296296298" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/drawable/ic_linear_layout.xml" value="0.2359375" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/layout/activity_detail.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.21979166666666666" />
+        <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.20572916666666666" />
         <entry key="..\:/Users/BAZINFO/AndroidStudioProjects/Words/app/src/main/res/menu/layout_menu.xml" value="0.2" />
       </map>
     </option>
